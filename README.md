@@ -1,3 +1,9 @@
+> [!note]
+> This repository contains code developed as part of the Computer Organization course at FAMAF – Universidad Nacional de Córdoba.  
+> The documentation is in Spanish as it was written for academic submission.  
+> This project was developed for simulation on QEMU, targeting the ARMv8 architecture.  
+> Educational use only.
+
 # Organización del Computador - Proyecto 2022
 
 ## Integrantes
